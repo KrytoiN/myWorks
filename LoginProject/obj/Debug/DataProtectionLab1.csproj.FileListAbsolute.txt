@@ -1,0 +1,32 @@
+C:\Users\4793788\source\repos\DataProtectionLab1\bin\Debug\DataProtectionLab1.exe.config
+C:\Users\4793788\source\repos\DataProtectionLab1\bin\Debug\DataProtectionLab1.exe
+C:\Users\4793788\source\repos\DataProtectionLab1\bin\Debug\DataProtectionLab1.pdb
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.AssemblyReference.cache
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.AboutForm.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.LoginForm.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.Properties.Resources.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.GenerateResource.cache
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.CoreCompileInputs.cache
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.exe
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.pdb
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.ChangePassword.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.AddPassword.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.MainForm.resources
+C:\Users\4793788\source\repos\DataProtectionLab1\obj\Debug\DataProtectionLab1.AdminPanel.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.AssemblyReference.cache
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.AboutForm.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.AddPassword.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.AdminPanel.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.ChangePassword.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.LoginForm.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.MainForm.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.GenerateResource.cache
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.exe
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.pdb
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\bin\Debug\DataProtectionLab1.exe.config
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\bin\Debug\DataProtectionLab1.exe
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\bin\Debug\DataProtectionLab1.pdb
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.Properties.Resources.resources
+C:\Users\Николюк\source\repos\защита данных\DataProtectionLab1\obj\Debug\DataProtectionLab1.csproj.CoreCompileInputs.cache
