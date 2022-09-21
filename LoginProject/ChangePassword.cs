@@ -34,15 +34,20 @@ namespace DataProtectionLab1
             }
 
             if ((!MainForm.UserRepositories[user].HasPasswordRestriction) && (MainForm.rePassword(NewPasswordInput.Text, ConfirmPasswordInput.Text)))
-                MainForm.UserRepositories[user].Password = NewPasswordInput.Text.ToString();
+            {
+                MainForm.UserRepositories[user].Password = NewPasswordInput.Text;
+                Close();
+            }
             else
             {
                 if (MainForm.CheckPassword(NewPasswordInput.Text) && (MainForm.rePassword(NewPasswordInput.Text, ConfirmPasswordInput.Text)))
+                {
                     MainForm.UserRepositories[user].Password = NewPasswordInput.Text;
+                    Close();
+                }
                 else
                     MessageBox.Show("В пароле должны быть цифры и операции (+, -, *, /)", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-            Close();
         }
 
         private void CancelPasswordChange_Click(object sender, EventArgs e)
