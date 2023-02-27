@@ -1,0 +1,155 @@
+.show-block
+{
+
+}
+
+.topic
+{
+    padding: 2em 0em 2em 2em;
+}
+
+.topic h1
+{
+    font-weight: 400;
+}
+
+.inner
+{
+    padding: 0em 2em 2em 2em; 
+    display: flex;
+}
+
+.product-view
+{
+    border: 1px solid #ececec;
+    height: 555px;
+    padding: 0em 3em 0em 0em;
+}
+
+.product-img img
+{
+    text-align: center;
+    width: 600px;
+    height: 500px;
+}
+
+.dpc-view
+{
+    padding: 0em 2em 1em 2em
+}
+
+.price-view
+{
+    padding: 0em 1em 1em 0em;
+}
+
+.des-view
+{
+    padding: 0em 1em 2em 0em;
+}
+
+.des
+{
+    overflow: hidden;
+}
+
+.char-view
+{
+    padding-bottom: 1em;
+}
+
+.table-item
+{
+    table-layout: fixed;
+    display: table;
+    width: 100%;
+}
+
+.table-name
+{
+    background-color: #ffffff;
+    vertical-align: middle;
+    display: table-cell;
+    position: relative;
+    overflow: hidden;
+    padding: 2px 0;
+}
+
+.table-name::after
+{
+    border-bottom: 1px dotted black;
+    position: absolute;
+    margin-left: 12px;
+    height: 16px;
+    content: '';
+    width: 100%;
+}
+
+.table-val
+{
+    padding-left: 12px;
+    width: 40%;
+}
+
+.cart-view
+{
+    padding-top: 1em;
+}
+
+.btn
+{
+    margin-left: 2em;
+    display: inline-block;
+    width: 150px;
+    height: 70px;
+}
+
+.btn-plus
+{
+    display: inline-block;
+}
+
+.btn-plus input
+{
+    height: 45px;
+    width: 45px;
+}
+
+.btn-minus
+{
+    display: inline-block;
+}
+
+.btn-minus input
+{
+    height: 45px;
+    width: 45px; 
+}
+
+
+.text-val
+{
+    display: inline-block;
+}
+
+.text-val input
+{
+    text-align: center;
+    height: 45px;
+    width: 80px;
+}
+
+.plus-minus
+{
+    display: inline-block;
+}
+
+.cart-view button
+{
+    background-color: #4CAF50;
+}
+
+.cart-view button:hover
+{
+    background-color: green;
+}

@@ -1,0 +1,151 @@
+.form-control
+{
+    max-width: 400px;
+}
+
+.navbar-nav li
+{
+    padding-right: 20px;
+}
+
+.product-card
+{
+    position: relative;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.06);
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 1em;
+}
+    
+.product-card:hover
+{
+    box-shadow: 0 14px 30px -15px rgba(0, 0, 0, 0.75);   
+}
+    
+.product-img a
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+.product-img img
+{
+    width: 250px;
+    height: 250px;
+}
+    
+.product-title
+{
+    padding: 3% 2% 2% 4%;
+}
+    
+.product-title h5 a
+{
+    font-weight: 300;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    overflow: hidden;
+    display: block;
+}
+    
+.product-description
+{
+    display: block;
+    overflow: hidden;
+    display: flex;
+    padding: 0% 1% 0% 4%;
+    justify-content: left;
+    color: black;
+}
+    
+.product-bottom
+{
+    padding: 0% 0% 3% 4%; 
+}
+    
+.product-price
+{
+    color: black;
+    font-size: 20px;
+}
+    
+.btn-add
+{
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.drop-card {
+    display: none;
+    position: absolute;
+    background-color: white;
+    width: 270px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+.product-card:hover .drop-card {
+    display: inline-block;
+  }
+
+ /* .drop-card button
+{
+    border-radius: 0px;
+    border: none;
+    background-color: #4CAF50;
+}
+
+.drop-card button:hover
+{
+    background-color: green;
+}   */
+
+.btn-plus
+{
+    display: inline-block;
+}
+
+.btn-plus input
+{
+    height: 45px;
+    width: 35px;
+}
+
+.btn-minus
+{
+    display: inline-block;
+}
+
+.btn-minus input
+{
+    height: 45px;
+    width: 35px;
+}
+
+.text-val
+{
+    display: inline-block;
+}
+
+.cart-btn
+{
+    display: inline-block;
+    width: 106px;
+    height: 45px;
+}
+
+.text-val input
+{
+    text-align: center;
+    width: 80px;
+    height: 45px;
+    border: 1px solid #ececec;
+}
+    
+    
+  
+  
+
