@@ -1,0 +1,189 @@
+.navbar
+{
+    height: auto;
+    justify-content: space-between;
+}
+
+.nav-link
+{
+    font-size: 20px;
+}
+
+.navbar-dark .navbar-nav .nav-link
+{
+    color: yellow;
+}
+
+.navbar-collapse
+{
+    text-align: center;
+    background-color: black;
+    opacity: 0.85;
+}
+
+.main-container
+{
+    margin-top: 0;
+}
+
+@media screen and (max-width: 1200px)
+{
+    .main{
+        max-width: 960px;
+    }
+}
+
+@media screen and (max-width: 980px)
+{
+    .containers{
+        max-width: 640px;
+    }
+}
+
+@media screen and (max-width: 780px)
+{
+    .containers{
+        max-width: 540px;
+    }
+}
+
+#main-slider .itc-slider-item
+{
+    flex: 0 0 100%;
+    height: 768px;
+    font-family: 'Oswald', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+
+
+.main-slider
+{
+    margin: 0;
+    padding: 0;
+}
+
+/* #main-slider .itc-slider-wrapper{
+    max-width: 100%;
+} */
+
+#main-slider .itc-slider {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+#main-slider .itc-slider-item #main-img
+{
+    width: 1400px;
+    height: 768px;
+    filter: none;
+    /* object-fit: contain; */
+    object-fit: cover;
+    float: left;
+}
+
+@media screen and (max-width: 1400px)
+{
+    #main-slider .itc-slider-item #main-img{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 780px)
+{
+    #main-slider .itc-slider-item #main-img {
+    width: 100%;
+    height: 400px;
+  }
+}
+
+@media screen and (max-width: 1400px)
+{
+    #main-slider .itc-slider{
+        max-width: 1260px;
+    }
+}
+
+@media screen and (max-width: 1260px)
+{
+    #main-slider .itc-slider{
+        max-width: 1060px;
+    }
+}
+
+@media screen and (max-width: 1060px)
+{
+    #main-slider .itc-slider{
+        max-width: 860px;
+    }
+}
+
+@media screen and (max-width: 860px)
+{
+    #main-slider .itc-slider{
+        max-width: 660px;
+    }
+}
+
+/* aa */
+
+@media screen and (max-width: 780px)
+{
+    #main-slider .itc-slider-item{
+        max-width: 660px;
+        height: 400px;
+    }
+}
+
+.btn-main{
+    position: relative;
+    max-width: 350px;
+    margin: 0 auto;
+    bottom: 10em;
+}
+
+.btn-tel{
+    transition: .2s;
+    background-color: rgb(246,214,21);
+    padding: 15px 5px 12px;
+	padding-right: 15px;
+	padding-left: 15px;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    text-decoration: none;
+	cursor: pointer;
+	border: 0px none;
+    max-width: 350px;
+    text-transform: uppercase;
+    font-family: 'Oswald', Arial, sans-serif;
+}
+
+.btn-tel:hover{
+    transform: scale(1.05);
+}
+
+@media screen and (max-width: 1400px)
+{
+    .btn-main{
+        bottom: 11em;
+    }
+}
+
+@media screen and (max-width: 780px)
+{
+    .btn-main{
+        bottom: 6em;
+    }
+
+    .btn-tel{
+        max-width: 300px;
+        font-size: 16px;
+        padding: 8px 2px 6px;
+    }
+
+    .btn-main{
+        max-width: 300px
+    }
+}

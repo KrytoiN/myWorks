@@ -1,0 +1,33 @@
+#res .itc-slider-item
+{
+    /* flex: 0 0 32.3333333333%;
+    max-width: 32.3333333333%; */
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 100%;
+    height: 400px;
+    font-family: 'Oswald', Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    /* border: 3px solid #fff; */
+    color: rgba(255,255,255, 0.8);
+    font-size: 15px;
+}
+
+#res .vertical
+{
+  border-left: 30px solid black;
+  height: 500px;
+}
+
+#res .itc-slider-items {
+  --gap: 0rem;
+  gap: var(--gap);
+}
+
+#res .itc-slider-item #beaf
+{
+  filter: brightness(100%);
+  width: 550px;
+  height: 500px;
+}

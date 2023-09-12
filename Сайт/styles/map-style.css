@@ -1,0 +1,82 @@
+/* .contacts-b
+{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.map
+{
+    float: left;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    height: 600px;
+} */
+
+.map
+{
+    float: left;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+    height: 600px;
+}
+
+.contact-box .contact_ttl a {
+    text-decoration: none;
+    color: yellow;
+}
+
+.contact-box .contact_ttl{
+    color: yellow;
+}
+
+.contacts-b
+{
+    color: rgba(255, 255, 0, 0.704);
+    float: left;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    position: relative;
+    overflow: hidden;
+    line-height: 24px;
+}
+
+.main-heading
+{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
+
+.contact-box
+{
+    text-align: center;
+}
+
+.contact_icon img
+{
+    width: 120px;
+    object-fit: cover;
+    height: 120px;
+    border-radius: 100%;
+    margin: 0 auto;
+    line-height: 100px;
+    color: #76c2a3;
+    position: relative;
+}
+
+.contact-box .contact_ttl {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.contact_ttl{
+    cursor: pointer;
+    margin: 15px 0 0;
+}

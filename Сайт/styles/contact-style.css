@@ -1,0 +1,73 @@
+@media (max-width: 550px)
+{
+    .contact-widget {
+        height: 100px;
+        width: 50px;
+        right: 5px;
+        bottom: 70px;
+        padding: 10px 12px;
+    }
+}
+
+.contact-widget {
+    position: fixed;
+	height: 140px;
+	width: 60px;
+	background-color: rgba(255, 255, 0, 0.704);
+    right: 2%;
+    bottom: 25px;
+	padding: 8px 13px;
+    cursor: pointer;
+    z-index: 1000;
+	border-radius: 100px;
+	text-align: center;
+}
+.contact-widget .icon {
+	height: 50%;
+	width: 100%;
+	-webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.contact-widget .icon-phone img:hover {
+	transform: scale(1.1);
+}
+
+@media (max-width:550px) {
+	.contact-widget {
+		height: 140px;
+		width: 50px;
+		right: 5px;
+		bottom: 70px;
+		padding: 10px 12px;
+	}
+}
+
+.icon-phone img {
+	width: 26px;
+    height: 40px;
+}
+
+.contact-widget .icon-whats img:hover {
+	transform: scale(1.1);
+}
+
+.icon-whats img {
+	width: 26px;
+    height: 40px;
+}
+
+.icon-inst img {
+	width: 26px;
+    height: 40px;
+}
+
+.contact-widget .icon-inst img:hover {
+	transform: scale(1.1);
+}
+
+/* @media (max-width:550px) {
+	.icon-whats img {
+		width: 26px;
+		height: 40px;
+	}
+} */

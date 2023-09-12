@@ -1,0 +1,19 @@
+.reviews-b
+{
+    float: left;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    position: relative;
+    overflow: hidden;
+    line-height: 24px;
+}
+
+.main-heading
+{
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+    position: relative;
+}
