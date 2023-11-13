@@ -1,0 +1,1 @@
+drop table pc, software, applications;
